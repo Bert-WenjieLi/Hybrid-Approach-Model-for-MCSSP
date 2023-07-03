@@ -1,0 +1,5 @@
+Assign.py为任务分配模型
+Sequence.py为轮盘赌选择算子的GA排序模型
+Sequence -v2.py为锦标赛选择算子的GA排序模型
+Sequence -v2 nonhomogeneous.py为锦标赛选择算子的GA排序模型，Supply存储所有材料
+Sequence -v3.py为锦标赛选择算子，种马进化的GA排序模型
